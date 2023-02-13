@@ -1,6 +1,6 @@
 # Reactjs Tutorial
 
-![Reactjs Logo](https://github.com/d3vkk/reactjs-tutorial/blob/master/reactjs-logo.svg)
+![Reactjs Logo](https://github.com/d3vkk/reactjs-tutorial-traversymedia/blob/master/reactjs-logo.svg)
 
 Reactjs Tutorial from Traversy Media. With short, useful comments.
 
@@ -14,11 +14,11 @@ To contribute, [use this guide](https://github.com/d3vkk/open-source/blob/master
 
 Star this repo for future reference
 
-[Open in browser-based Visual Studio Code](https://vscode.dev//github/d3vkk/reactjs-tutorial)
+[Open in browser-based Visual Studio Code](https://vscode.dev//github/d3vkk/reactjs-tutorial-traversymedia)
 
 Fork or clone this repo
 ```
-git clone https://github.com/d3vkk/reactjs-tutorial.git
+git clone https://github.com/d3vkk/reactjs-tutorial-traversymedia.git
 ```
 
 © 2020-present Donald K • Under MIT License
